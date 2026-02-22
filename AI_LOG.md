@@ -7,3 +7,7 @@
 - **2026-02-22** — ci: add Auto-Log workflow for AI_LOG updates
 
 Co-authored-by: Cursor <cursoragent@cursor.com>
+
+- **2026-02-22** — ci: trigger workflows on main instead of master
+
+Co-authored-by: Cursor <cursoragent@cursor.com>
