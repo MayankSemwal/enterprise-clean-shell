@@ -15,3 +15,7 @@ Co-authored-by: Cursor <cursoragent@cursor.com>
 - **2026-02-22** — ci: trigger workflows on main instead of master
 
 Co-authored-by: Cursor <cursoragent@cursor.com>
+
+- **2026-02-24** — feat: start domain layer with Enterprise.Core
+
+Co-authored-by: Cursor <cursoragent@cursor.com>
