@@ -19,3 +19,7 @@ Co-authored-by: Cursor <cursoragent@cursor.com>
 - **2026-02-24** — feat: start domain layer with Enterprise.Core
 
 Co-authored-by: Cursor <cursoragent@cursor.com>
+
+- **2026-02-26** — Potential fix for code scanning alert no. 1: Workflow does not contain permissions
+
+Co-authored-by: Copilot Autofix powered by AI <62310815+github-advanced-security[bot]@users.noreply.github.com>
